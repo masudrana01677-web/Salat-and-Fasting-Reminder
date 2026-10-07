@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PrayerTime" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/emerald_primary_dark</item>
+        <item name="android:navigationBarColor">@color/sand_bg</item>
+    </style>
+
+    <style name="Theme.PrayerTime.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/emerald_primary</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_crescent</item>
+        <item name="postSplashScreenTheme">@style/Theme.PrayerTime</item>
+    </style>
+</resources>

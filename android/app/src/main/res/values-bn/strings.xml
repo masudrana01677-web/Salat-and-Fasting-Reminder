@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Identity -->
+    <string name="app_name">নামাজের সময়</string>
+    <string name="app_full_name">নামাজের সময় – আজান ও রমজান</string>
+    <string name="app_tagline">নামাজ • রমজান • কিবলা</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">হোম</string>
+    <string name="nav_prayer">নামাজ</string>
+    <string name="nav_ramadan">রমজান</string>
+    <string name="nav_qibla">কিবলা</string>
+    <string name="nav_settings">সেটিংস</string>
+
+    <!-- Prayers -->
+    <string name="fajr">ফজর</string>
+    <string name="sunrise">সূর্যোদয়</string>
+    <string name="dhuhr">যোহর</string>
+    <string name="asr">আসর</string>
+    <string name="sunset">সূর্যাস্ত</string>
+    <string name="maghrib">মাগরিব</string>
+    <string name="isha">এশা</string>
+
+    <!-- Home & Countdown -->
+    <string name="next_prayer">পরবর্তী নামাজ</string>
+    <string name="time_remaining">বাকি আছে</string>
+    <string name="today_prayers">আজকের নামাজের সময়সূচি</string>
+    <string name="current_prayer">এখন</string>
+    <string name="location_loading">লোকেশন নির্ণয় করা হচ্ছে…</string>
+    <string name="location_auto">অটো লোকেশন</string>
+    <string name="location_manual">ম্যানুয়াল লোকেশন</string>
+    <string name="refresh_location">লোকেশন রিফ্রেশ</string>
+
+    <!-- Ramadan & Fasting -->
+    <string name="ramadan_title">রমজান কারীম</string>
+    <string name="sehri_ends">সেহরির শেষ সময়</string>
+    <string name="iftar_time">ইফতারের সময়</string>
+    <string name="sehri_countdown">সেহরি শেষ হতে বাকি</string>
+    <string name="iftar_countdown">ইফতারের বাকি</string>
+    <string name="fasting_status_fasting">ইফতার পর্যন্ত রোজা পালন</string>
+    <string name="fasting_status_eating">সেহরির সময় চলমান</string>
+    <string name="fasting_status_completed">ইফতার সম্পন্ন</string>
+    <string name="ramadan_day">%1$d রমজান</string>
+    <string name="ramadan_calendar">রমজানের ক্যালেন্ডার</string>
+    <string name="ramadan_not_active">রমজান মাস এখন সক্রিয় নয়</string>
+    <string name="ramadan_countdown_to_next">পরবর্তী রমজান প্রায় %1$d দিন পর</string>
+    <string name="sehri_reminder_title">সেহরির সময় শেষ হতে চলেছে</string>
+    <string name="iftar_notification_title">ইফতারের সময় হয়েছে!</string>
+
+    <!-- Qibla -->
+    <string name="qibla_title">কিবলা দিকনির্ণয়</string>
+    <string name="qibla_bearing">কিবলা: %1$d°</string>
+    <string name="qibla_calibrate">৮ আকৃতিতে ফোন ঘুরিয়ে কম্পাস ক্যালিব্রেট করুন</string>
+    <string name="qibla_sensor_missing">এই ডিভাইসে কম্পাস সেন্সর পাওয়া যায়নি</string>
+    <string name="distance_to_kaaba">কাবা শরিফের দূরত্ব: %1$,d কিমি</string>
+
+    <!-- Calendar -->
+    <string name="monthly_calendar">মাসিক নামাজের সময়সূচি</string>
+    <string name="hijri_date">হিজরি তারিখ</string>
+    <string name="gregorian_date">তারিখ</string>
+
+    <!-- Settings -->
+    <string name="settings_title">সেটিংস</string>
+    <string name="section_location">লোকেশন</string>
+    <string name="section_calculation">নামাজের হিসাব পদ্ধতি</string>
+    <string name="section_adjustment">সময় সমন্বয় (মিনিট)</string>
+    <string name="section_notifications">নোটিফিকেশন</string>
+    <string name="section_ramadan">রমজানের অ্যালার্ট</string>
+    <string name="section_appearance">থিম ও রূপ</string>
+    <string name="section_language">ভাষা</string>
+    <string name="section_about">অ্যাপ সম্পর্কে</string>
+
+    <string name="calc_method">হিসাব পদ্ধতি</string>
+    <string name="asr_method">আসর পদ্ধতি</string>
+    <string name="high_latitude_rule">উচ্চ অক্ষাংশ নিয়ম</string>
+    <string name="asr_standard">স্ট্যান্ডার্ড (শাফেয়ী, মালেকী, হাম্বলী)</string>
+    <string name="asr_hanafi">হানাফী</string>
+
+    <string name="theme_system">সিস্টেম ডিফল্ট</string>
+    <string name="theme_light">লাইট মোড</string>
+    <string name="theme_dark">ডার্ক মোড</string>
+    <string name="lang_english">English (ইংরেজি)</string>
+    <string name="lang_bangla">বাংলা</string>
+
+    <!-- Notifications -->
+    <string name="channel_prayer_name">নামাজের নোটিফিকেশন</string>
+    <string name="channel_azan_name">আজানের শব্দ</string>
+    <string name="channel_ramadan_name">রমজান সেহরি ও ইফতার</string>
+    <string name="azan_audio_enabled">আজান অডিও বাজান</string>
+    <string name="azan_audio_sound">মুয়াজ্জিনের কণ্ঠ</string>
+    <string name="sehri_reminder_lead">সেহরির পূর্বে সতর্কতা</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_skip">এড়িয়ে যান</string>
+    <string name="onboarding_next">পরবর্তী</string>
+    <string name="onboarding_get_started">শুরু করুন</string>
+    <string name="onboarding_p1_title">নামাজ কখনো বাদ যাবে না</string>
+    <string name="onboarding_p1_desc">বিশ্বের যেকোনো স্থানে সঠিক সময়ে স্বয়ংক্রিয় নামাজের সময়সূচি।</string>
+    <string name="onboarding_p2_title">নির্ভুল নামাজের হিসাব</string>
+    <string name="onboarding_p2_desc">স্বীকৃত বিভিন্ন ইসলামিক হিসাব পদ্ধতির সমন্বয়ে নির্ভুল গণনা।</string>
+    <string name="onboarding_p3_title">রমজানে সেহরি ও ইফতার</string>
+    <string name="onboarding_p3_desc">লাইভ কাউন্টডাউন এবং পূর্ণ ৩০ দিনের রমজান ক্যালেন্ডার।</string>
+    <string name="onboarding_p4_title">যেকোনো স্থান থেকে কিবলা</string>
+    <string name="onboarding_p4_desc">মক্কার পবিত্র কাবা শরীফের দিকে নিখুঁত দিক নির্দেশক কম্পাস।</string>
+    <string name="onboarding_p5_title">আজানের নোটিফিকেশন পান</string>
+    <string name="onboarding_p5_desc">প্রতিটি ওয়াক্তের জন্য পছন্দের সুর ও নোটিফিকেশন নির্ধারণ।</string>
+
+    <!-- Permissions -->
+    <string name="permission_location_rationale">আপনার শহরের সঠিক নামাজের সময় হিসাব করতে লোকেশন অনুমতি প্রয়োজন।</string>
+    <string name="permission_notification_rationale">আজান বা ইফতারের সময় অ্যালার্ট পেতে নোটিফিকেশন অনুমতি প্রয়োজন।</string>
+    <string name="grant_permission">অনুমতি দিন</string>
+    <string name="manual_location_pick">নিজে শহর নির্বাচন করুন</string>
+</resources>

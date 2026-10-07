@@ -1,0 +1,6 @@
+{
+  "name": "Prayer Time – Azan & Ramadan",
+  "description": "Production-ready Muslim Prayer Times, Azan notifications, Ramadan calendar, Sehri & Iftar countdowns, Qibla compass, and Hijri calendar in English and Bangla.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

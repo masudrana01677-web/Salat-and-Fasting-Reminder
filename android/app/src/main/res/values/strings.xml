@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Identity -->
+    <string name="app_name">Prayer Time</string>
+    <string name="app_full_name">Prayer Time – Azan &amp; Ramadan</string>
+    <string name="app_tagline">Prayer • Ramadan • Qibla</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_prayer">Prayer</string>
+    <string name="nav_ramadan">Ramadan</string>
+    <string name="nav_qibla">Qibla</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Prayers -->
+    <string name="fajr">Fajr</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="sunset">Sunset</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+
+    <!-- Home & Countdown -->
+    <string name="next_prayer">NEXT PRAYER</string>
+    <string name="time_remaining">remaining</string>
+    <string name="today_prayers">Today\'s Prayers</string>
+    <string name="current_prayer">Now</string>
+    <string name="location_loading">Detecting location…</string>
+    <string name="location_auto">Auto Location</string>
+    <string name="location_manual">Manual Location</string>
+    <string name="refresh_location">Refresh Location</string>
+
+    <!-- Ramadan & Fasting -->
+    <string name="ramadan_title">Ramadan Kareem</string>
+    <string name="sehri_ends">Sehri Ends</string>
+    <string name="iftar_time">Iftar Time</string>
+    <string name="sehri_countdown">Sehri ends in</string>
+    <string name="iftar_countdown">Iftar in</string>
+    <string name="fasting_status_fasting">Fasting Until Iftar</string>
+    <string name="fasting_status_eating">Sehri Window Active</string>
+    <string name="fasting_status_completed">Iftar Completed</string>
+    <string name="ramadan_day">Day %1$d</string>
+    <string name="ramadan_calendar">Ramadan Calendar</string>
+    <string name="ramadan_not_active">Ramadan is not currently active</string>
+    <string name="ramadan_countdown_to_next">Next Ramadan in approximately %1$d days</string>
+    <string name="sehri_reminder_title">Sehri Ending Soon</string>
+    <string name="iftar_notification_title">It\'s Time for Iftar!</string>
+
+    <!-- Qibla -->
+    <string name="qibla_title">Qibla Direction</string>
+    <string name="qibla_bearing">Qibla: %1$d°</string>
+    <string name="qibla_calibrate">Calibrate compass by rotating device in figure-8</string>
+    <string name="qibla_sensor_missing">Compass sensor not available on this device</string>
+    <string name="distance_to_kaaba">Distance to Kaaba: %1$,d km</string>
+
+    <!-- Calendar -->
+    <string name="monthly_calendar">Monthly Calendar</string>
+    <string name="hijri_date">Hijri Date</string>
+    <string name="gregorian_date">Date</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="section_location">LOCATION</string>
+    <string name="section_calculation">PRAYER CALCULATION</string>
+    <string name="section_adjustment">TIME ADJUSTMENTS</string>
+    <string name="section_notifications">NOTIFICATIONS</string>
+    <string name="section_ramadan">RAMADAN REMINDERS</string>
+    <string name="section_appearance">APPEARANCE</string>
+    <string name="section_language">LANGUAGE</string>
+    <string name="section_about">ABOUT</string>
+
+    <string name="calc_method">Calculation Method</string>
+    <string name="asr_method">Asr Method</string>
+    <string name="high_latitude_rule">High Latitude Rule</string>
+    <string name="asr_standard">Standard (Shafi\'i, Maliki, Hanbali)</string>
+    <string name="asr_hanafi">Hanafi</string>
+
+    <string name="theme_system">System Default</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="lang_english">English</string>
+    <string name="lang_bangla">বাংলা (Bangla)</string>
+
+    <!-- Notifications -->
+    <string name="channel_prayer_name">Prayer Notifications</string>
+    <string name="channel_azan_name">Azan Call to Prayer</string>
+    <string name="channel_ramadan_name">Ramadan Sehri &amp; Iftar</string>
+    <string name="azan_audio_enabled">Play Azan Audio</string>
+    <string name="azan_audio_sound">Azan Voice</string>
+    <string name="sehri_reminder_lead">Sehri Alert Before</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_get_started">Get Started</string>
+    <string name="onboarding_p1_title">Never Miss Your Prayer</string>
+    <string name="onboarding_p1_desc">Punctual, automatic prayer times calculated anywhere in the world.</string>
+    <string name="onboarding_p2_title">Accurate Prayer Times</string>
+    <string name="onboarding_p2_desc">Astronomically computed with multiple recognized Islamic calculation methods.</string>
+    <string name="onboarding_p3_title">Sehri &amp; Iftar During Ramadan</string>
+    <string name="onboarding_p3_desc">Live fasting countdowns and complete Ramadan timetable.</string>
+    <string name="onboarding_p4_title">Find Qibla Anywhere</string>
+    <string name="onboarding_p4_desc">Interactive magnetic compass pointing directly to the Holy Kaaba in Makkah.</string>
+    <string name="onboarding_p5_title">Get Azan Notifications</string>
+    <string name="onboarding_p5_desc">Customizable audio notifications and reminders for every Salah.</string>
+
+    <!-- Permissions -->
+    <string name="permission_location_rationale">Location access is needed to compute accurate prayer times for your city.</string>
+    <string name="permission_notification_rationale">Notification permission is needed to alert you when Azan or Iftar time arrives.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="manual_location_pick">Choose Location Manually</string>
+</resources>

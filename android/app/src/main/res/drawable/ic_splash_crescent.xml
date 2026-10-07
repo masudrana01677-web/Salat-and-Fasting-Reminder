@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+    <!-- Outer Islamic 8-Point Star Motif -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M64,8 L77,35 L106,35 L86,55 L96,84 L64,68 L32,84 L42,55 L22,35 L51,35 Z" />
+    <!-- Crescent Moon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,28 C50,28 36,42 36,60 C36,78 50,92 68,92 C76,92 84,89 90,83 C74,83 62,69 62,53 C62,42 68,33 76,29 C73,28 70,28 68,28 Z" />
+</vector>
